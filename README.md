@@ -15,3 +15,6 @@ The source of the datatset used is US Energy Information Administration www.eia.
 * Built graphs using Matplotlib and Seaborn
 
 ![Results](https://github.com/medamer/Built-week-1/blob/master/Images/electricityvsemissions.png)
+
+
+[Link to the Blogpost](https://edamer66.medium.com/electricity-and-air-pollution-8cf100fddf31?sk=db9588fe502cc890d5f0d17bb928c550)
