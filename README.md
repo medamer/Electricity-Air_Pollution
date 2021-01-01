@@ -1,6 +1,6 @@
 # Electricity And Air Polution
 
-!(https://github.com/medamer/Built-week-1/blob/master/Images/smokes.png)
+!https://github.com/medamer/Built-week-1/blob/master/Images/smokes.png
 
 My project is about the electricity production using diffrent sources. I splited the sources to two categories, clean and non clean. Clean sources are Hydroelectric Conventional, Nuclear, Pumped Storage, Solar, and Wind. The non clean sources are fossil fuels and materials that come from plants, municipal and industrial wastes.
 
