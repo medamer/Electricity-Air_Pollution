@@ -1,4 +1,4 @@
-# Electricity And Air Polution
+# Electricity And Air Pollution
 
 ![Welcome image](https://github.com/medamer/Built-week-1/blob/master/Images/smokes.png)
 
