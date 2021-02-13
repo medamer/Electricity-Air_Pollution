@@ -2,7 +2,7 @@
 
 ![Welcome image](https://github.com/medamer/Built-week-1/blob/master/Images/smokes.png)
 
-My project is about the electricity production using diffrent sources. I splited the sources to two categories, clean and non clean. Clean sources are Hydroelectric Conventional, Nuclear, Pumped Storage, Solar, and Wind. The non clean sources are fossil fuels and materials that come from plants, municipal and industrial wastes.
+The purpose of this project is to compare the emissions from different sources used to generate electricity in the United States. I splited the sources to two categories, clean and non clean. Clean sources are Hydroelectric Conventional, Pumped Storage, Solar, Wind, and added Nuclear as well due to very low emissions of CO2. The non clean sources are fossil fuels and materials that come from plants, municipal and industrial wastes.
 
 The source of the datatset used is US Energy Information Administration www.eia.gov
 
